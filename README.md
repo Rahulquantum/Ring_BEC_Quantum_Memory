@@ -16,9 +16,9 @@ Authors: [Nilamoni Daloi](mailto:nilamoni123@gmail.com), [Rahul Gupta](mailto:ra
 Research Article: Cavity Optomechanical Quantum Memory for Twisted Photons Using Ring BEC, Nilamoni Daloi, Rahul Gupta, Aritra Ghosh, Pardeep Kumar, Himadri S. Dhar and M. Bhattacharya, 	[arXiv:2506.06651](https://doi.org/10.48550/arXiv.2506.06651).
 
 How to run?
-You will need to [install Qutip and the Scipy, Numpy](https://qutip.org/docs/4.7/installation.html) packages to run the Jupyter Notebook .ipynb.
+You will need to [install Qutip and the Scipy, Numpy](https://qutip.org/docs/4.7/installation.html) packages to run the Jupyter Notebook ("*.ipynb").
 
 You also need [Jupyter](https://jupyter.org/install) to open the notebook, but you can also use [VS Code](https://code.visualstudio.com/download) instead.
 
-Each notebook in main_text_figures folder can create a specific plot, similar to as it appears in our main research article, the file parameters ("*.ipynb") contains all relevant parameters there.
+Each notebook in main_text_figures folder can create a specific plot, similar to as it appears in our main research article, the file parameters.ipynb contains all relevant parameters there.
 Figures/plots that appear in the supplemental part of our research article can be obtained by codes in folder named supplemental_figures
