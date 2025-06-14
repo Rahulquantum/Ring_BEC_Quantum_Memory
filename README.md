@@ -2,7 +2,7 @@ MIT License (see License file)
 
 Copyright (c) 2025 Nilamoni Daloi, Rahul Gupta, Aritra Ghosh, Pardeep Kumar, Himadri Shekhar Dhar, and M. Bhattacharya
 
-This repository contains programs to calculate Fidelity for the storage and retrieval of superposition and entangled OAM photon states into the Ring BEC
+**This repository contains programs to calculate Fidelity for the storage and retrieval of superposition and entangled OAM photon states into the Ring BEC**
 
 Authors: [Nilamoni Daloi](mailto:nilamoni123@gmail.com), [Rahul Gupta](mailto:rahul.quantumfield@gmail.com), [Aritra Ghosh](mailto:ag34@iitbbs.ac.in), [Pardeep Kumar](mailto:pardeep.kumar@mpl.mpg.de), [Himadri S. Dhar](mailto:himadri.dhar@iitb.ac.in) and [M. Bhattacharya](mailto:mb6154@gmail.com)
 
