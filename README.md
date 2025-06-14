@@ -1,3 +1,5 @@
+[![DOI](https://sandbox.zenodo.org/badge/1001512614.svg)](https://handle.stage.datacite.org/10.5072/zenodo.270242)
+
 MIT License (see License file)
 
 Copyright (c) 2025 Nilamoni Daloi, Rahul Gupta, Aritra Ghosh, Pardeep Kumar, Himadri Shekhar Dhar, and M. Bhattacharya
