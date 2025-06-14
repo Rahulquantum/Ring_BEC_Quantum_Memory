@@ -21,4 +21,4 @@ You will need to [install Qutip and the Scipy, Numpy](https://qutip.org/docs/4.7
 You also need [Jupyter](https://jupyter.org/install) to open the notebook, but you can also use [VS Code](https://code.visualstudio.com/download) instead.
 
 Each notebook in main_text_figures folder can create a specific plot, similar to as it appears in our main research article, the file parameters.ipynb contains all relevant parameters there.
-Figures/plots that appear in the supplemental part of our research article can be obtained by codes in folder named supplemental_figures
+Figures/plots that appear in the supplemental part of our research article can be obtained by codes in folder named supplemental_figures.
