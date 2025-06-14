@@ -9,7 +9,7 @@ The primary governing equation which we simulate here is:
 ![equation](https://latex.codecogs.com/png.image?%5CLARGE%20%5Cdpi%7B110%7D%5Cbg%7Bwhite%7D%5Cbegin%7Bequation%7DH/%5Chbar=-%5Ctilde%7B%5CDelta%7Da%5E%5Cdagger%20a&plus;%5Comega_c%20c%5E%5Cdagger%20c&plus;%5Comega_d%20d%5E%5Cdagger%20d&plus;G(X_c&plus;X_d)a%5E%5Cdagger%20a&plus;i(%5Cvarepsilon_ca%5E%5Cdagger-%5Cvarepsilon%5E*_c%20a)&plus;i(%5Cvarepsilon_p%20a%5E%5Cdagger%20e%5E%7B-i%5Cdelta%20t%7D-%5Cvarepsilon%5E*_p%20a%20e%5E%7Bi%5Cdelta%20t%7D)&plus;4%5Ctilde%7Bg%7DN(c%5E%5Cdagger%20c&plus;d%5E%5Cdagger%20d)&plus;2%5Ctilde%7Bg%7DN(c%20d&plus;c%5E%5Cdagger%20d%5E%5Cdagger).%5Cend%7Bequation%7D
 )
 
-This describes the interaction of RING BEC sideband modes c and d interacting with cavity photon mode a, driven with a signal pulse and a probe pulse
+This describes the interaction of RING BEC sideband modes c and d interacting with cavity photon mode a, driven with a signal pulse and a probe pulse.
 
 Authors: [Nilamoni Daloi](mailto:nilamoni123@gmail.com), [Rahul Gupta](mailto:rahul.quantumfield@gmail.com), [Aritra Ghosh](mailto:ag34@iitbbs.ac.in), [Pardeep Kumar](mailto:pardeep.kumar@mpl.mpg.de), [Himadri S. Dhar](mailto:himadri.dhar@iitb.ac.in) and [M. Bhattacharya](mailto:mb6154@gmail.com)
 
